@@ -21,9 +21,9 @@ You must have python installed, and type the following command.
 
 ## Deployment
 
-To deploy the game, run the main file, this can be done by executing the following command.
+To deploy the project, run the main file, this can be done by executing the following command.
 ```bash
-  python Battleship.py
+  python Cipher_bot.py
 ```
 
 
